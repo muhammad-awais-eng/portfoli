@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfoli/static/css/main.9497973f.css",
-    "main.js": "/portfoli/static/js/main.f5748b5b.js",
+    "main.js": "/portfoli/static/js/main.a762012e.js",
     "static/media/adob-photo.png": "/portfoli/static/media/adob-photo.db57e8253a9aa6681156.png",
     "static/media/adob-ill.png": "/portfoli/static/media/adob-ill.222a7a315a9e5702c373.png",
     "static/media/cv.pdf": "/portfoli/static/media/cv.f1503bed764849349511.pdf",
@@ -18,10 +18,10 @@
     "static/media/css.png": "/portfoli/static/media/css.cbea6150e2917bd6f0f3.png",
     "index.html": "/portfoli/index.html",
     "main.9497973f.css.map": "/portfoli/static/css/main.9497973f.css.map",
-    "main.f5748b5b.js.map": "/portfoli/static/js/main.f5748b5b.js.map"
+    "main.a762012e.js.map": "/portfoli/static/js/main.a762012e.js.map"
   },
   "entrypoints": [
     "static/css/main.9497973f.css",
-    "static/js/main.f5748b5b.js"
+    "static/js/main.a762012e.js"
   ]
 }
